@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
 <h3>- I am a minecraft bot developer based in Czech Republic<br>- I work on Fabric mods.</h3>
 
 
