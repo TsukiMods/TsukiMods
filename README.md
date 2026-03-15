@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi there 👋
 <br><br>- I am a minecraft bot developer based in Czech Republic<br>- I work on Fabric mods.<br><br><br>
 
 
