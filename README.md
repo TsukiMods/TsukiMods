@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h5>- I am a minecraft bot developer based in Czech Republic<br>- I work on Fabric mods.</h5>
+<h3>- I am a minecraft bot developer based in Czech Republic<br>- I work on Fabric mods.</h3>
 
 
 # 💻 Tech Stack:
